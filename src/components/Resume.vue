@@ -12,9 +12,14 @@
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
             <h4>Mehmet Kırkoca</h4>
-            <p><em>Experienced software developer proficient in PHP, MySQL, Node.js, Redis, MongoDB. Skilled in web app
-                development using PHP, Laravel, Vue.js, JavaScript, jQuery. Familiar with RESTful APIs, JSON, XML, SOAP.
-                Uses Ubuntu, GIT for version control. Laravel is the go-to framework.</em></p>
+            <p>
+              <em>
+                I am a solution-oriented and innovative software developer with a passion for creating high-performance,
+                scalable applications. I have a proven track record in developing comprehensive projects and prioritize
+                quality in my work. My goal is to contribute effectively to your company's growth journey with robust
+                and efficient software solutions.
+              </em>
+            </p>
             <ul>
               <li>Bursa Turkey</li>
               <li>mehmet_kirkoca@hotmail.com</li>
@@ -58,7 +63,8 @@
                 <h6>2018:</h6>
                 <ul>
                   <li>Worked on web3 projects, focusing on the back-end and API consuming side.</li>
-                  <li>Created a data segmentation tool for blockchain and developed the client-side and admin panel using
+                  <li>Created a data segmentation tool for blockchain and developed the client-side and admin panel
+                    using
                     Laravel.</li>
                   <li>Integrated Telegram API bots and assisted colleagues with community management and airdrop
                     campaigns.</li>
@@ -72,7 +78,8 @@
                 <ul>
                   <li>Worked on maintenance for theadx project, a Demand-Side Platform (DSP) and a Data Management
                     Platform (DMP).</li>
-                  <li>Developed emarketingsuite.net, another DMP tool, using the Laravel framework and creating an API to
+                  <li>Developed emarketingsuite.net, another DMP tool, using the Laravel framework and creating an API
+                    to
                     integrate with theadx.</li>
                   <li>Utilized Golang to parse large XML data for performance improvement.</li>
                   <li>Used technologies: Laravel, Golang, MySQL, CSS, JavaScript, jQuery.</li>
@@ -116,11 +123,17 @@
                 While I had coding skills before, I didn't have much professional experience.
                 I learned PHP, Javascript, jQuery, CSS, and MySQL from scratch. During my time here,
               </li>
-              <li>I developed a school management system with a 3-user role authentication system: students, parents, and
+              <li>I developed a school management system with a 3-user role authentication system: students, parents,
+                and
                 teachers. Teachers could post announcements, tests, and study materials, as well as input information
-                about students so parents could monitor and learn about their students' current status.</li>
+                about students so parents could monitor and learn about their students' current status.
+              </li>
+              <li>I developed the Istihdam Bürosu website to serve as a comprehensive platform for job seekers and
+                employers. The website features a user-friendly interface designed with modern web standards, utilizing
+                PHP for server-side scripting, CSS for styling, and JavaScript for enhanced interactivity.</li>
               <li>Then, I worked on an outsourced project for this company. The project involved awarding points to
-                employees based on their work achievements. After earning enough credits, employees could apply to work in
+                employees based on their work achievements. After earning enough credits, employees could apply to work
+                in
                 different cities in Turkey.</li>
               <li>Skills: Clean Coding · Back-End Web Development · JSON</li>
             </ul>

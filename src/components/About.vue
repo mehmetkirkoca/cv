@@ -6,11 +6,13 @@
       <div class="section-title">
         <h2>About</h2>
         <p>
-          As an experienced software developer, I am good at PHP and MySQL, as well as Node.js. My expertise extends to
-          other popular technologies such as Redis, and MongoDB. I have a proven track record of developing successful
-          web-based applications using a range of languages and frameworks, including PHP, Laravel, Vue.js, JavaScript,
-          and jQuery. I have also worked extensively with RESTful APIs, JSON, XML, and SOAP. The Laravel framework is my
-          go-to platform. In my development process, I utilize Ubuntu as my operating system and GIT for version control.
+          I am a solution-oriented and innovative software developer with a strong technical background in PHP and
+          Node.js, along with in-depth experience in data technologies such as MySQL, Redis, MongoDB, and ElasticSearch.
+          I have developed comprehensive projects using Laravel and Vue.js, driven by a passion for creating
+          high-performance, scalable applications. I prefer using the Ubuntu operating system and actively utilize GIT
+          for version control. In CI/CD processes, I prioritize quality through GitHub Actions and end-to-end testing
+          with Cypress. My goal is to contribute effectively to your company's growth journey with robust and efficient
+          software solutions.
         </p>
       </div>
 

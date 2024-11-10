@@ -28,7 +28,7 @@
         <ul>
           <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#myLinks" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>My Links</span></a></li>
+          <!-- <li><a href="#myPortfolio" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>My Portfolio</span></a></li> -->
         </ul>
       </nav><!-- .nav-menu -->
     </div>

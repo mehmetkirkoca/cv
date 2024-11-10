@@ -2,7 +2,7 @@
 import Header from './components/Header.vue';
 import About from './components/About.vue';
 import Resume from './components/Resume.vue';
-import MyLinks from './components/MyLinks.vue';
+// import MyPortfolio from './components/MyPortfolio.vue';
 import Footer from './components/Footer.vue';
 </script>
 
@@ -13,7 +13,7 @@ import Footer from './components/Footer.vue';
   <div class="container" id="main">
     <About />
     <Resume />
-    <MyLinks />
+    <!-- <MyPortfolio /> -->
   </div>
 
   <Footer />
