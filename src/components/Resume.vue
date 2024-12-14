@@ -42,33 +42,25 @@
             <ul>
 
               <li>
-                <h6>2016:</h6>
+                <h6>2021 and now</h6>
                 <ul>
-                  <li>Worked on haberyazilimi V2, improving themes and enhancing user experience.</li>
-                  <li>Developed outsourced projects with CodeIgniter and created custom WordPress plugins for WordPress
-                    websites.</li>
-                  <li>Used technologies: PHP, Memcache, MySQL, CSS, JavaScript, jQuery.</li>
+                  <li>Actively working on haberyazilimi V3, developing it as a full-stack panel/website.</li>
+                  <li>haberyazilimi V3 includes a page builder called Composer, allowing you to add components to page
+                    layouts and build website pages.</li>
+                  <li>Using Node.js for the HTML rendering process and site serving with microservices.</li>
+                  <li>Implemented caching using Redis and memory cache.</li>
+                  <li>Utilizing Redis pub/sub for messaging between microservices.</li>
+                  <li>Using Elasticsearch for fast and relevant content searching.</li>
+                  <li>Used technologies: PHP, Node.js, Redis, Elasticsearch, MySQL, CSS, Vue.js, JavaScript, jQuery</li>
                 </ul>
               </li>
 
               <li>
-                <h6>2017:</h6>
+                <h6>2020:</h6>
                 <ul>
-                  <li>Developed an ERP app with Laravel for a small-sized lawyer company.</li>
-                  <li>Used technologies: Laravel, MySQL, CSS, JavaScript, jQuery.</li>
-                </ul>
-              </li>
-
-              <li>
-                <h6>2018:</h6>
-                <ul>
-                  <li>Worked on web3 projects, focusing on the back-end and API consuming side.</li>
-                  <li>Created a data segmentation tool for blockchain and developed the client-side and admin panel
-                    using
-                    Laravel.</li>
-                  <li>Integrated Telegram API bots and assisted colleagues with community management and airdrop
-                    campaigns.</li>
-                  <li>Used technologies: Laravel, MySQL, CSS, JavaScript, jQuery.</li>
+                  <li>Worked on the WebTv project, the company's web conferencing app based on the BigBlueButton
+                    open-source project. Altered the user interface and added a few extra features.</li>
+                  <li>Used technologies: Meteor, React.js, MongoDB, CSS, JavaScript.</li>
                 </ul>
               </li>
 
@@ -87,29 +79,36 @@
               </li>
 
               <li>
-                <h6>2020:</h6>
+                <h6>2018:</h6>
                 <ul>
-                  <li>Worked on the WebTv project, the company's web conferencing app based on the BigBlueButton
-                    open-source project. Altered the user interface and added a few extra features.</li>
-                  <li>Used technologies: Meteor, React.js, MongoDB, CSS, JavaScript.</li>
+                  <li>Worked on web3 projects, focusing on the back-end and API consuming side.</li>
+                  <li>Created a data segmentation tool for blockchain and developed the client-side and admin panel
+                    using
+                    Laravel.</li>
+                  <li>Integrated Telegram API bots and assisted colleagues with community management and airdrop
+                    campaigns.</li>
+                  <li>Used technologies: Laravel, MySQL, CSS, JavaScript, jQuery.</li>
+                </ul>
+              </li>
+
+              <li>
+                <h6>2017:</h6>
+                <ul>
+                  <li>Developed an ERP app with Laravel for a small-sized lawyer company.</li>
+                  <li>Used technologies: Laravel, MySQL, CSS, JavaScript, jQuery.</li>
                 </ul>
               </li>
 
 
               <li>
-                <h6>2021 and now</h6>
+                <h6>2016:</h6>
                 <ul>
-                  <li>Actively working on haberyazilimi V3, developing it as a full-stack panel/website.</li>
-                  <li>haberyazilimi V3 includes a page builder called Composer, allowing you to add components to page
-                    layouts and build website pages.</li>
-                  <li>Using Node.js for the HTML rendering process and site serving with microservices.</li>
-                  <li>Implemented caching using Redis and memory cache.</li>
-                  <li>Utilizing Redis pub/sub for messaging between microservices.</li>
-                  <li>Using Elasticsearch for fast and relevant content searching.</li>
-                  <li>Used technologies: PHP, Node.js, Redis, Elasticsearch, MySQL, CSS, Vue.js, JavaScript, jQuery</li>
+                  <li>Worked on haberyazilimi V2, improving themes and enhancing user experience.</li>
+                  <li>Developed outsourced projects with CodeIgniter and created custom WordPress plugins for WordPress
+                    websites.</li>
+                  <li>Used technologies: PHP, Memcache, MySQL, CSS, JavaScript, jQuery.</li>
                 </ul>
               </li>
-
 
             </ul>
           </div>
@@ -131,11 +130,11 @@
               <li>I developed the Istihdam Bürosu website to serve as a comprehensive platform for job seekers and
                 employers. The website features a user-friendly interface designed with modern web standards, utilizing
                 PHP for server-side scripting, CSS for styling, and JavaScript for enhanced interactivity.</li>
-              <li>Then, I worked on an outsourced project for this company. The project involved awarding points to
-                employees based on their work achievements. After earning enough credits, employees could apply to work
-                in
-                different cities in Turkey.</li>
-              <li>Skills: Clean Coding · Back-End Web Development · JSON</li>
+              <li>
+                I worked on an outsourced project for this company that involved awarding points to employees based on their educational qualifications, certifications, and years of service at their current workplace. 
+                The system already tracked this information, and my role was to calculate points using the existing data. Additionally, I developed a feature that allowed employees to select their preferred relocation city. 
+                Employees were then ranked based on their points, which determined the priority for relocation.
+              </li>
             </ul>
           </div>
         </div>
